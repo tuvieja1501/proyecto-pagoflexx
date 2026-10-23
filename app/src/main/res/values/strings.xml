@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PagoFlex</string>
+    <string name="canal_avisos_nombre">Avisos de vencimiento</string>
+    <string name="canal_avisos_descripcion">Te avisamos con la anticipación que elijas antes de cada vencimiento.</string>
+</resources>
